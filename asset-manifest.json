@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restohub/static/css/main.d4082ff2.css",
+    "main.js": "/restohub/static/js/main.9d69cabb.js",
+    "static/js/787.620ee2cd.chunk.js": "/restohub/static/js/787.620ee2cd.chunk.js",
+    "static/media/welcome.png": "/restohub/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/restohub/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/restohub/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/restohub/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/Food3.jpeg": "/restohub/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/restohub/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/logo.png": "/restohub/static/media/logo.54625a7889db8618ebf2.png",
+    "static/media/DeliveryImg.png": "/restohub/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/restohub/index.html",
+    "main.d4082ff2.css.map": "/restohub/static/css/main.d4082ff2.css.map",
+    "main.9d69cabb.js.map": "/restohub/static/js/main.9d69cabb.js.map",
+    "787.620ee2cd.chunk.js.map": "/restohub/static/js/787.620ee2cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4082ff2.css",
+    "static/js/main.9d69cabb.js"
+  ]
+}

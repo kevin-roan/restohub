@@ -1,7 +1,7 @@
 {
-  "homepage":"https://kevin-roan.github.io/restohub"
   "name": "restorentappp",
   "version": "0.1.0",
+  "homepage": "https://kevin-roan.github.io/restohub",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",

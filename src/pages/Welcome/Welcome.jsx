@@ -44,7 +44,6 @@ const Welcome = () => {
             >
               Welcome to RestoHub
             </Typography>
-            r{" "}
             <Title variant="h1">
               Discover a place where you'll love to Eat.
             </Title>

@@ -27,7 +27,11 @@ const Partner = () => {
     <Box sx={{ mt: 10 }}>
       <CustomContainer>
         <CustomBox>
-          <img src={logoImg} alt="logo" style={{ maxWidth: "100%" }} />
+          <img
+            style={{ height: "50px", width: "50px" }}
+            src={logoImg}
+            alt="logo"
+          />
           <Typography
             variant="body2"
             sx={{
